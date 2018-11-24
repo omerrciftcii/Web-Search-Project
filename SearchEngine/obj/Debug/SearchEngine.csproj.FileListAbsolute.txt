@@ -1,0 +1,29 @@
+C:\Users\Murat Gürer\source\repos\WebSearchProject\SearchEngine\bin\Debug\SearchEngine.exe.config
+C:\Users\Murat Gürer\source\repos\WebSearchProject\SearchEngine\bin\Debug\SearchEngine.exe
+C:\Users\Murat Gürer\source\repos\WebSearchProject\SearchEngine\bin\Debug\SearchEngine.pdb
+C:\Users\Murat Gürer\source\repos\WebSearchProject\SearchEngine\obj\Debug\SearchEngine.csprojAssemblyReference.cache
+C:\Users\Murat Gürer\source\repos\WebSearchProject\SearchEngine\obj\Debug\SearchEngine.csproj.CoreCompileInputs.cache
+C:\Users\Murat Gürer\source\repos\WebSearchProject\SearchEngine\obj\Debug\SearchEngine.exe
+C:\Users\Murat Gürer\source\repos\WebSearchProject\SearchEngine\obj\Debug\SearchEngine.pdb
+C:\Users\GİZEM\Desktop\mg\WebSearchProject\WebSearchProject\SearchEngine\bin\Debug\SearchEngine.exe.config
+C:\Users\GİZEM\Desktop\mg\WebSearchProject\WebSearchProject\SearchEngine\bin\Debug\SearchEngine.exe
+C:\Users\GİZEM\Desktop\mg\WebSearchProject\WebSearchProject\SearchEngine\bin\Debug\SearchEngine.pdb
+C:\Users\GİZEM\Desktop\mg\WebSearchProject\WebSearchProject\SearchEngine\obj\Debug\SearchEngine.csprojResolveAssemblyReference.cache
+C:\Users\GİZEM\Desktop\mg\WebSearchProject\WebSearchProject\SearchEngine\obj\Debug\SearchEngine.csproj.CoreCompileInputs.cache
+C:\Users\GİZEM\Desktop\mg\WebSearchProject\WebSearchProject\SearchEngine\obj\Debug\SearchEngine.exe
+C:\Users\GİZEM\Desktop\mg\WebSearchProject\WebSearchProject\SearchEngine\obj\Debug\SearchEngine.pdb
+C:\Users\GİZEM\Desktop\mg\WebSearchProject\WebSearchProject\SearchEngine\bin\Debug\SharedLibrary.dll
+C:\Users\GİZEM\Desktop\mg\WebSearchProject\WebSearchProject\SearchEngine\bin\Debug\SharedLibrary.pdb
+C:\Users\GİZEM\Desktop\mg\WebSearchProject\WebSearchProject\SearchEngine\obj\Debug\SearchEngine.csproj.CopyComplete
+C:\Users\Murat Gürer\Desktop\WebSearchProject\SearchEngine\bin\Debug\SearchEngine.exe.config
+C:\Users\Murat Gürer\Desktop\WebSearchProject\SearchEngine\bin\Debug\SearchEngine.exe
+C:\Users\Murat Gürer\Desktop\WebSearchProject\SearchEngine\bin\Debug\SearchEngine.pdb
+C:\Users\Murat Gürer\Desktop\WebSearchProject\SearchEngine\bin\Debug\SharedLibrary.dll
+C:\Users\Murat Gürer\Desktop\WebSearchProject\SearchEngine\bin\Debug\SharedLibrary.pdb
+C:\Users\Murat Gürer\Desktop\WebSearchProject\SearchEngine\obj\Debug\SearchEngine.csprojAssemblyReference.cache
+C:\Users\Murat Gürer\Desktop\WebSearchProject\SearchEngine\obj\Debug\SearchEngine.csproj.CoreCompileInputs.cache
+C:\Users\Murat Gürer\Desktop\WebSearchProject\SearchEngine\obj\Debug\SearchEngine.csproj.CopyComplete
+C:\Users\Murat Gürer\Desktop\WebSearchProject\SearchEngine\obj\Debug\SearchEngine.exe
+C:\Users\Murat Gürer\Desktop\WebSearchProject\SearchEngine\obj\Debug\SearchEngine.pdb
+C:\Users\Murat Gürer\Desktop\WebSearchProject\SearchEngine\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Murat Gürer\Desktop\WebSearchProject\SearchEngine\bin\Debug\Newtonsoft.Json.xml

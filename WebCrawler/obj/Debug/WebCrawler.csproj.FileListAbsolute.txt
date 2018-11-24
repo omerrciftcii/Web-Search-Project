@@ -1,0 +1,39 @@
+C:\Users\Murat Gürer\source\repos\WebSearchProject\WebCrawler\bin\Debug\WebCrawler.exe.config
+C:\Users\Murat Gürer\source\repos\WebSearchProject\WebCrawler\bin\Debug\WebCrawler.exe
+C:\Users\Murat Gürer\source\repos\WebSearchProject\WebCrawler\bin\Debug\WebCrawler.pdb
+C:\Users\Murat Gürer\source\repos\WebSearchProject\WebCrawler\obj\Debug\WebCrawler.csprojAssemblyReference.cache
+C:\Users\Murat Gürer\source\repos\WebSearchProject\WebCrawler\obj\Debug\WebCrawler.csproj.CoreCompileInputs.cache
+C:\Users\Murat Gürer\source\repos\WebSearchProject\WebCrawler\obj\Debug\WebCrawler.exe
+C:\Users\Murat Gürer\source\repos\WebSearchProject\WebCrawler\obj\Debug\WebCrawler.pdb
+C:\Users\Murat Gürer\source\repos\WebSearchProject\WebCrawler\bin\Debug\SharedLibrary.dll
+C:\Users\Murat Gürer\source\repos\WebSearchProject\WebCrawler\bin\Debug\SharedLibrary.pdb
+C:\Users\Murat Gürer\source\repos\WebSearchProject\WebCrawler\obj\Debug\WebCrawler.csproj.CopyComplete
+C:\Users\GİZEM\Desktop\mg\WebSearchProject\WebSearchProject\WebCrawler\bin\Debug\WebCrawler.exe.config
+C:\Users\GİZEM\Desktop\mg\WebSearchProject\WebSearchProject\WebCrawler\bin\Debug\WebCrawler.exe
+C:\Users\GİZEM\Desktop\mg\WebSearchProject\WebSearchProject\WebCrawler\bin\Debug\WebCrawler.pdb
+C:\Users\GİZEM\Desktop\mg\WebSearchProject\WebSearchProject\WebCrawler\bin\Debug\SharedLibrary.dll
+C:\Users\GİZEM\Desktop\mg\WebSearchProject\WebSearchProject\WebCrawler\bin\Debug\SharedLibrary.pdb
+C:\Users\GİZEM\Desktop\mg\WebSearchProject\WebSearchProject\WebCrawler\obj\Debug\WebCrawler.csprojResolveAssemblyReference.cache
+C:\Users\GİZEM\Desktop\mg\WebSearchProject\WebSearchProject\WebCrawler\obj\Debug\WebCrawler.csproj.CoreCompileInputs.cache
+C:\Users\GİZEM\Desktop\mg\WebSearchProject\WebSearchProject\WebCrawler\obj\Debug\WebCrawler.csproj.CopyComplete
+C:\Users\GİZEM\Desktop\mg\WebSearchProject\WebSearchProject\WebCrawler\obj\Debug\WebCrawler.exe
+C:\Users\GİZEM\Desktop\mg\WebSearchProject\WebSearchProject\WebCrawler\obj\Debug\WebCrawler.pdb
+C:\Users\GİZEM\Desktop\mg\WebSearchProject\WebSearchProject\WebCrawler\bin\Debug\HtmlAgilityPack.dll
+C:\Users\GİZEM\Desktop\mg\WebSearchProject\WebSearchProject\WebCrawler\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\GİZEM\Desktop\mg\WebSearchProject\WebSearchProject\WebCrawler\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Murat Gürer\Desktop\WebSearchProject\WebCrawler\bin\Debug\WebCrawler.exe.config
+C:\Users\Murat Gürer\Desktop\WebSearchProject\WebCrawler\bin\Debug\WebCrawler.exe
+C:\Users\Murat Gürer\Desktop\WebSearchProject\WebCrawler\bin\Debug\WebCrawler.pdb
+C:\Users\Murat Gürer\Desktop\WebSearchProject\WebCrawler\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Murat Gürer\Desktop\WebSearchProject\WebCrawler\bin\Debug\SharedLibrary.dll
+C:\Users\Murat Gürer\Desktop\WebSearchProject\WebCrawler\bin\Debug\SharedLibrary.pdb
+C:\Users\Murat Gürer\Desktop\WebSearchProject\WebCrawler\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Murat Gürer\Desktop\WebSearchProject\WebCrawler\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Murat Gürer\Desktop\WebSearchProject\WebCrawler\obj\Debug\WebCrawler.csprojAssemblyReference.cache
+C:\Users\Murat Gürer\Desktop\WebSearchProject\WebCrawler\obj\Debug\WebCrawler.csproj.CoreCompileInputs.cache
+C:\Users\Murat Gürer\Desktop\WebSearchProject\WebCrawler\obj\Debug\WebCrawler.csproj.CopyComplete
+C:\Users\Murat Gürer\Desktop\WebSearchProject\WebCrawler\obj\Debug\WebCrawler.exe
+C:\Users\Murat Gürer\Desktop\WebSearchProject\WebCrawler\obj\Debug\WebCrawler.pdb
+C:\Users\omerc\Documents\Visual Studio 2015\Projects\WebSearchProject\WebCrawler\bin\Debug\WebCrawler.exe.config
+C:\Users\omerc\Documents\Visual Studio 2015\Projects\WebSearchProject\WebCrawler\obj\Debug\WebCrawler.exe
+C:\Users\omerc\Documents\Visual Studio 2015\Projects\WebSearchProject\WebCrawler\obj\Debug\WebCrawler.pdb

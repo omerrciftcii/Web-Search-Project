@@ -1,0 +1,18 @@
+C:\Users\Murat Gürer\source\repos\WebSearchProject\SharedLibrary\bin\Debug\SharedLibrary.dll
+C:\Users\Murat Gürer\source\repos\WebSearchProject\SharedLibrary\bin\Debug\SharedLibrary.pdb
+C:\Users\Murat Gürer\source\repos\WebSearchProject\SharedLibrary\obj\Debug\SharedLibrary.csprojAssemblyReference.cache
+C:\Users\Murat Gürer\source\repos\WebSearchProject\SharedLibrary\obj\Debug\SharedLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Murat Gürer\source\repos\WebSearchProject\SharedLibrary\obj\Debug\SharedLibrary.dll
+C:\Users\Murat Gürer\source\repos\WebSearchProject\SharedLibrary\obj\Debug\SharedLibrary.pdb
+C:\Users\GİZEM\Desktop\mg\WebSearchProject\WebSearchProject\SharedLibrary\obj\Debug\SharedLibrary.csprojResolveAssemblyReference.cache
+C:\Users\GİZEM\Desktop\mg\WebSearchProject\WebSearchProject\SharedLibrary\obj\Debug\SharedLibrary.csproj.CoreCompileInputs.cache
+C:\Users\GİZEM\Desktop\mg\WebSearchProject\WebSearchProject\SharedLibrary\obj\Debug\SharedLibrary.dll
+C:\Users\GİZEM\Desktop\mg\WebSearchProject\WebSearchProject\SharedLibrary\obj\Debug\SharedLibrary.pdb
+C:\Users\GİZEM\Desktop\mg\WebSearchProject\WebSearchProject\SharedLibrary\bin\Debug\SharedLibrary.dll
+C:\Users\GİZEM\Desktop\mg\WebSearchProject\WebSearchProject\SharedLibrary\bin\Debug\SharedLibrary.pdb
+C:\Users\Murat Gürer\Desktop\WebSearchProject\SharedLibrary\bin\Debug\SharedLibrary.dll
+C:\Users\Murat Gürer\Desktop\WebSearchProject\SharedLibrary\bin\Debug\SharedLibrary.pdb
+C:\Users\Murat Gürer\Desktop\WebSearchProject\SharedLibrary\obj\Debug\SharedLibrary.csprojAssemblyReference.cache
+C:\Users\Murat Gürer\Desktop\WebSearchProject\SharedLibrary\obj\Debug\SharedLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Murat Gürer\Desktop\WebSearchProject\SharedLibrary\obj\Debug\SharedLibrary.dll
+C:\Users\Murat Gürer\Desktop\WebSearchProject\SharedLibrary\obj\Debug\SharedLibrary.pdb

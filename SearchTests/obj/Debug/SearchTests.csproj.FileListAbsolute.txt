@@ -1,0 +1,42 @@
+C:\Users\Murat Gürer\source\repos\WebSearchProject\SearchTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Murat Gürer\source\repos\WebSearchProject\SearchTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Murat Gürer\source\repos\WebSearchProject\SearchTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Murat Gürer\source\repos\WebSearchProject\SearchTests\bin\Debug\SearchTests.dll
+C:\Users\Murat Gürer\source\repos\WebSearchProject\SearchTests\bin\Debug\SearchTests.pdb
+C:\Users\Murat Gürer\source\repos\WebSearchProject\SearchTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Murat Gürer\source\repos\WebSearchProject\SearchTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Murat Gürer\source\repos\WebSearchProject\SearchTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Murat Gürer\source\repos\WebSearchProject\SearchTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Murat Gürer\source\repos\WebSearchProject\SearchTests\obj\Debug\SearchTests.csprojAssemblyReference.cache
+C:\Users\Murat Gürer\source\repos\WebSearchProject\SearchTests\obj\Debug\SearchTests.csproj.CoreCompileInputs.cache
+C:\Users\Murat Gürer\source\repos\WebSearchProject\SearchTests\obj\Debug\SearchTests.csproj.CopyComplete
+C:\Users\Murat Gürer\source\repos\WebSearchProject\SearchTests\obj\Debug\SearchTests.dll
+C:\Users\Murat Gürer\source\repos\WebSearchProject\SearchTests\obj\Debug\SearchTests.pdb
+C:\Users\GİZEM\Desktop\mg\WebSearchProject\WebSearchProject\SearchTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\GİZEM\Desktop\mg\WebSearchProject\WebSearchProject\SearchTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\GİZEM\Desktop\mg\WebSearchProject\WebSearchProject\SearchTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\GİZEM\Desktop\mg\WebSearchProject\WebSearchProject\SearchTests\bin\Debug\SearchTests.dll
+C:\Users\GİZEM\Desktop\mg\WebSearchProject\WebSearchProject\SearchTests\bin\Debug\SearchTests.pdb
+C:\Users\GİZEM\Desktop\mg\WebSearchProject\WebSearchProject\SearchTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\GİZEM\Desktop\mg\WebSearchProject\WebSearchProject\SearchTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\GİZEM\Desktop\mg\WebSearchProject\WebSearchProject\SearchTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\GİZEM\Desktop\mg\WebSearchProject\WebSearchProject\SearchTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\GİZEM\Desktop\mg\WebSearchProject\WebSearchProject\SearchTests\obj\Debug\SearchTests.csprojResolveAssemblyReference.cache
+C:\Users\GİZEM\Desktop\mg\WebSearchProject\WebSearchProject\SearchTests\obj\Debug\SearchTests.csproj.CoreCompileInputs.cache
+C:\Users\GİZEM\Desktop\mg\WebSearchProject\WebSearchProject\SearchTests\obj\Debug\SearchTests.csproj.CopyComplete
+C:\Users\GİZEM\Desktop\mg\WebSearchProject\WebSearchProject\SearchTests\obj\Debug\SearchTests.dll
+C:\Users\GİZEM\Desktop\mg\WebSearchProject\WebSearchProject\SearchTests\obj\Debug\SearchTests.pdb
+C:\Users\Murat Gürer\Desktop\WebSearchProject\SearchTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Murat Gürer\Desktop\WebSearchProject\SearchTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Murat Gürer\Desktop\WebSearchProject\SearchTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Murat Gürer\Desktop\WebSearchProject\SearchTests\bin\Debug\SearchTests.dll
+C:\Users\Murat Gürer\Desktop\WebSearchProject\SearchTests\bin\Debug\SearchTests.pdb
+C:\Users\Murat Gürer\Desktop\WebSearchProject\SearchTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Murat Gürer\Desktop\WebSearchProject\SearchTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Murat Gürer\Desktop\WebSearchProject\SearchTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Murat Gürer\Desktop\WebSearchProject\SearchTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Murat Gürer\Desktop\WebSearchProject\SearchTests\obj\Debug\SearchTests.csprojAssemblyReference.cache
+C:\Users\Murat Gürer\Desktop\WebSearchProject\SearchTests\obj\Debug\SearchTests.csproj.CoreCompileInputs.cache
+C:\Users\Murat Gürer\Desktop\WebSearchProject\SearchTests\obj\Debug\SearchTests.csproj.CopyComplete
+C:\Users\Murat Gürer\Desktop\WebSearchProject\SearchTests\obj\Debug\SearchTests.dll
+C:\Users\Murat Gürer\Desktop\WebSearchProject\SearchTests\obj\Debug\SearchTests.pdb

@@ -1,0 +1,5 @@
+1,http://www.milliyet.com.tr/yazarlar/melih-asik/bu-da-kecibank--2700764/,True,1,Overwrite,23.7.2018 17:11:03
+2,http://www.milliyet.com.tr/yazarlar/tunca-bengin/kaybedenlerin-koltuk-savasi--2700794/,True,0,Archive,23.7.2018 17:11:41
+3,http://www.milliyet.com.tr/yazarlar/guneri-civaoglu/taciz-ve-kacirilmalar-2700779/,True,3,Archive,23.7.2018 17:11:19
+
+
